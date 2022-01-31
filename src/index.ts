@@ -3,7 +3,7 @@ import { pass } from './assets/pass';
 import wwdrpem from './assets/wwdr.pem'
 import icon from './assets/icon.png'
 import { v4 as uuidv4 } from 'uuid';
-
+import { Buffer } from "buffer"
 
 const wwdr = wwdrpem;
 const signerCert = SIGNER_CERT;
