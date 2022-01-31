@@ -1,6 +1,6 @@
 # cloudflare-passbook
 
-To get started with your own deploymen, follow these steps:
+To get started with your own deployment, follow these steps:
 
 1. Fork the repository
 2. In the fork, go to settings > secrets
