@@ -17,9 +17,9 @@ addEventListener('fetch', (event) => {
 async function handleRequest(request: Request) {
   try {
     const passObj = new PKPass({
-      "pass.json": JSON.stringify(pass),
-      "icon.png": icon,
-      "thumbnail": icon,
+      "pass.json": Buffer.from(JSON.stringify(pass)),
+      "icon.png": Buffer.from(icon),
+      "thumbnail": Buffer.from(icon),
     },
       {
         wwdr,
