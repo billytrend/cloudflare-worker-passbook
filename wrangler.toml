@@ -1,4 +1,4 @@
-name = "cf"
+name = "cloudflare-worker-passbook"
 type = "webpack"
 
 account_id = ""
