@@ -19,4 +19,4 @@ To get started with your own deployment, follow these steps:
 
 ### Demo
 
-This repository is continously [published](https://github.com/billytrend/cloudflare-worker-passbook/actions/workflows/main.yml) and available [here](https://cloudflare-worker-passbook.billytrend.workers.dev/)
+This repository is continously [published](https://github.com/billytrend/cloudflare-worker-passbook/actions/workflows/main.yml) and available [here](https://cloudflare-worker-passbook.billytrend.workers.dev/) (link downloads the hello world passbook).
