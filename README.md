@@ -20,3 +20,8 @@ To get started with your own deployment, follow these steps:
 ### Demo
 
 This repository is continously [published](https://github.com/billytrend/cloudflare-worker-passbook/actions/workflows/main.yml) and available [here](https://cloudflare-worker-passbook.billytrend.workers.dev/) (link downloads the hello world passbook).
+
+### Projects based on this template
+
+This template is used in the following places:
+* [getrunpass.com](https://getrunpass.com) (github: [run-pass/run-pass](https://github.com/run-pass/run-pass))
