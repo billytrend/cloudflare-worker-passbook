@@ -1,5 +1,7 @@
 # cloudflare-passbook
 
+[![publish cloudflare worker](https://github.com/billytrend/cloudflare-worker-passbook/actions/workflows/main.yml/badge.svg)](https://github.com/billytrend/cloudflare-worker-passbook/actions/workflows/main.yml)
+
 To get started with your own deployment, follow these steps:
 
 1. Fork the repository
@@ -14,3 +16,7 @@ To get started with your own deployment, follow these steps:
    * CF_API_TOKEN
 6. Go to actions > publish cloudflare worker and hit run
 7. Your worker should now be live and serving a hello-world pass
+
+### Demo
+
+This repository is continously [published](https://github.com/billytrend/cloudflare-worker-passbook/actions/workflows/main.yml) and available [here](https://cloudflare-worker-passbook.billytrend.workers.dev/)
